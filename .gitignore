@@ -1,0 +1,2 @@
+#arquivo de .gitignore - para não subir tais informações para o GitHub
+node_modules
